@@ -1,0 +1,30 @@
+{
+  "LeftParititionBillets": [
+    {
+      "Text": "w_test1",
+      "Number": 11
+    },
+    {
+      "Text": "s_test2",
+      "Number": 2
+    }
+  ],
+  "RigthParititionBillets": [
+    {
+      "Text": "q_test3",
+      "Number": 3
+    },
+    {
+      "Text": "g_test4",
+      "Number": 4
+    },
+    {
+      "Text": "d_test5",
+      "Number": 5
+    },
+    {
+      "Text": "n_test6",
+      "Number": 6
+    }
+  ]
+}
